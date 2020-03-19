@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Chebi007/TomeRater" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Chebi007/selenium_training.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\79505\PycharmProjects" />
